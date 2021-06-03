@@ -1,3 +1,21 @@
+header {
+  background-color: #cc3300;
+
+}
+h1, h2 {
+  color: #e6fff2;
+  text-align: center;
+}
+
+main {
+  background-color: #e6e6e6;
+  text-align: center;
+  padding: 1em;
+}
+
 body {
-  background-color: grey;
+ background-image: url("record.png");
+ background-color: #33ccff;
+ background-repeat: repeat;
+ margin: 0;
 }
